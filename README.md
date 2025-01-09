@@ -1,0 +1,2 @@
+# Glossary
+Important terms 
